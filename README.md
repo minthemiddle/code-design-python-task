@@ -2,7 +2,7 @@
 
 This is your first game, written in Python programming language
 
-- Open [this link](https://repl.it/languages/python3) to open the game
+- Open [this link](https://repl.it/repls/WarmheartedUncommonApplicationstack) to open the game
 - The game is already complete and works
 - Click the green run button to test the game
 - In line 1, change the number `100` to one that you like
