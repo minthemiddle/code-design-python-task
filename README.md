@@ -6,7 +6,7 @@ This is your first game, written in Python programming language
 - The game is already complete and works
 - Click the green run button to test the game
 - In line 1, change the number `100` to one that you like
-- Hide the game's code ([see here](https://gfycat.com/goodelaborateacaciarat) how to do it)
+- Hide the game's code ([see here](https://s.put.re/HHpRCc6N.gif) how to do it)
 - Hand your computer to your right neighbour
 - Run the game again with the run button
 - Let the neighbor guess the number that you like
