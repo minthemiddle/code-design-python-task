@@ -16,12 +16,3 @@ while(programm_running):
     inp = input("guess the number: ")
     inp = int(inp)
     check_number(inp)
-         
- '''        
-  Explain
- 1. Explain game: Set a number that someone guess
- 2. Define your 
- 
-  Iteration
- - "Your number is {}"
-'''
